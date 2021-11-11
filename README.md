@@ -1,7 +1,7 @@
 
 <<<<<<< Updated upstream
- Addressbook Tutorial V5.0
- Addressbook Tutorial V5.0
+ Addressbook Tutorial V5.1
+ Addressbook Tutorial V5.1
 
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
